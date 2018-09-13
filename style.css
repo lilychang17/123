@@ -10,7 +10,7 @@ body { overflow-x: hidden; margin: 0; padding: 0; border: 0;}
 .sign{ position: relative; top: 395px; right:95px;height:157px; background: url(img/sign.png) no-repeat right top ; }
 .sign:hover{ height:157px; background: url(img/sign_hover.png) no-repeat right top ;}
 .content{ text-align:center;background-color:#FFF;width:100%; padding-bottom: 60px;}
-.font1_txt{ text-align:left;background-color:#FFF;width:850px;margin:0 auto;line-height: 6vmin; font-size: 2.8vmin;padding: 5px;word-break: keep-all;}
+.font1_txt{ text-align:left;background-color:#FFF;width:850px;margin:0 auto;line-height: 6vmin; font-size: 2.8vmin;padding: 5px;}
 .font2_txt{ text-align:left;background-color:#FFF;width:850px;margin:0 auto;line-height: 3vmin; font-size: 1.5vmin;padding: 5px;}
 .font1{font-size:3.5vmin;text-indent:-4vmin;font-weight:800;margin-top: 15px;color: #c9190b;}
 .font2{text-indent:-2vmin;font-weight:bold;}
