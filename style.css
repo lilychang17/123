@@ -2,6 +2,8 @@ ol, ul {
 	list-style: none;}
 
 body { overflow-x: hidden; margin: 0; padding: 0; border: 0;}
+a{color: #e95a1e;}
+a:hover{color:#f9b50a;}
 
 .logo{ width:100%; min-width: 850px; height:165px; background-color: #FFF; background: url(img/logo.png) no-repeat center top ;}
 .titlebg{ width:100%; min-width: 850px; height:808px; background: url(img/01.jpg) no-repeat center top ;}
